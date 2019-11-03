@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name access_control_pcb_v2-eagle-import)(type Legacy)(uri ${KIPRJMOD}/access_control_pcb_v2-eagle-import.lib)(options "")(descr ""))
+  (lib (name access-control-pcb-v2-rescue)(type Legacy)(uri "${KIPRJMOD}/access control pcb v2-rescue.lib")(options "")(descr ""))
+)
